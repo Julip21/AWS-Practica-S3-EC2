@@ -1,2 +1,2 @@
-# AWS-Practica-S3-EC2
+# AWS-Practica 
 Practica 01 Betek
